@@ -10,12 +10,11 @@ A Todo App in express and mongo with create, read and delete operations.
 - mongoose - v6.9.0
 - nodemon - v2.0.20
 
-## cerated_at
+## created_at
 
 26 Jan 2023
 
 ## To Start
 
 - `$ npm start`
-- `$ node index.js`
 - `$ base url = 127.0.0.1:8000`
